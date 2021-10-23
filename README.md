@@ -1,2 +1,1 @@
-Create a certificate and save it to LocalMachine trusted root.
-=
+## Create a certificate and save it to LocalMachine trusted root.
